@@ -3,19 +3,26 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"assets/NOTICES": "3519840a85071ab5ad3dc46e5c007165",
-"index.html": "82a1a82f270c19e2ff23e0ba183a10e2",
-"/": "82a1a82f270c19e2ff23e0ba183a10e2",
-"main.dart.js": "fa482561bf84b84431f1b454e9f6f7de",
+  "version.json": "d005aef2bfc112bc59bc0df89e4c95c1",
+"index.html": "83cc0c300d7085d058f0f82417eea414",
+"/": "83cc0c300d7085d058f0f82417eea414",
+"main.dart.js": "ee82e8fc04e9e03a40cce17f568d9534",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"version.json": "d005aef2bfc112bc59bc0df89e4c95c1",
-"manifest.json": "677c78c97ced6e23cbc71998c2cd1333"
+"manifest.json": "677c78c97ced6e23cbc71998c2cd1333",
+"assets/AssetManifest.json": "01f2ab85689b19ba5a3fabfc5c2e01cc",
+"assets/NOTICES": "d0de0f725acf4fe8bab9a7c8b1f8dd77",
+"assets/FontManifest.json": "9ce9175930f46236c016de28198fe21f",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
+"assets/packages/chord_chart/assets/fonts/PadiChordsStd-Regular.ttf": "1f9b9a25880d4eed147d3f866de87be2",
+"assets/packages/chord_chart/assets/fonts/PetalumaScript.ttf": "9e7e5250038d1ac3049322050335bf6c",
+"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/assets/fonts/PadiChordsStd-Regular.ttf": "1f9b9a25880d4eed147d3f866de87be2",
+"assets/assets/fonts/PetalumaScript.ttf": "9e7e5250038d1ac3049322050335bf6c"
 };
 
 // The application shell files that are downloaded before a service worker can
